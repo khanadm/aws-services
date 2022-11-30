@@ -76,6 +76,7 @@ Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the appl
  
 ![Amazon CloudWatch](https://user-images.githubusercontent.com/106643382/204772060-fc6d0648-dc53-4a4f-bdba-2644d42ca6aa.png "Amazon CloudWatch")
 
+---
 
 
 
