@@ -58,15 +58,23 @@ Lambda is a compute service that lets you run code without provisioning or manag
 ---
 
 
+AWS Elastic Beanstalk
+---
+
+With AWS Elastic Beanstalk, you can quickly deploy and manage applications in the AWS Cloud without worrying about the infrastructure that runs those applications. AWS Elastic Beanstalk reduces management complexity without restricting choice or control. You simply upload your application, and AWS Elastic Beanstalk automatically handles the details of capacity provisioning, load balancing, scaling, and application health monitoring.
+
+![AWS Elastic Beanstalk](https://user-images.githubusercontent.com/106643382/204771193-14202a2f-77e5-403e-b516-ae9523e967c5.png "AWS Elastic Beanstalk")
 
 
+---
 
 
+Amazon CloudWatch
+---
 
-
-
-
-
+Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time. You can use CloudWatch to collect and track metrics, which are variables you can measure for your resources and applications.
+ 
+![Amazon CloudWatch](https://user-images.githubusercontent.com/106643382/204772060-fc6d0648-dc53-4a4f-bdba-2644d42ca6aa.png "Amazon CloudWatch")
 
 
 
