@@ -18,22 +18,23 @@ Amazon EC2 Auto Scaling
 
 Amazon EC2 Auto Scaling helps you maintain application availability and lets you automatically add or remove EC2 instances using scaling policies that you define.Dynamic or predictive scaling policies let you add or remove EC2 instance capacity to service established or real-time demand patterns.
 
+
+![Auto Scaling](https://user-images.githubusercontent.com/106643382/204759657-afba18d1-4640-4c73-84e3-1557dbcc3a52.png "Auto Scaling")
+
+
+
 ---
 
 Amazon load balance 
-
-
 ---
 
 Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets 
 and virtual appliances in one or more Availability Zones (AZs).
 
+![simple-elb](https://user-images.githubusercontent.com/106643382/204757362-5f0a0882-a128-4889-a7eb-85da284c0dcf.png "simple-elb")
 
+---
 
-
-
-
-  ![1-simple-elb](https://user-images.githubusercontent.com/106643382/204757362-5f0a0882-a128-4889-a7eb-85da284c0dcf.png)
 
 
 
