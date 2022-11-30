@@ -53,9 +53,9 @@ AWS Lambda
 
 Lambda is a compute service that lets you run code without provisioning or managing servers. Lambda runs your code on a high-availability compute infrastructure and performs all of the administration of the compute resources, including server and operating system maintenance, capacity provisioning and automatic scaling, and logging. With Lambda, you can run code for virtually any type of application or backend service.
 
-![how-lambda-works](https://user-images.githubusercontent.com/106643382/204767731-c5445f9c-c5ef-4188-82f1-a9aa100ace6f.jpg)
+![how-lambda-works](https://user-images.githubusercontent.com/106643382/204767731-c5445f9c-c5ef-4188-82f1-a9aa100ace6f.jpg "how-lambda-works")
 
-
+---
 
 
 
