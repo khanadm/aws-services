@@ -82,8 +82,24 @@ Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Se
 
 
 
+Amazon CloudFront
+---
+
+Amazon CloudFront is a content delivery network (Amazon CDN or Amazon CDN Services) that is operated by Amazon Web Services. It speeds up the distribution of your static and dynamic web content such as .html, .css, .js, and image files to your clientele. This introduces you to Amazon CloudFront and helps you get started with it by talking about its working, benefits, use cases, and pricing. Finally, we also help you set up your CloudFront Distribution and get started with it.
 
 
+
+![cloudfront](https://user-images.githubusercontent.com/106643382/205494395-b6e763ba-07db-4216-8b05-03b34c99b0e8.jpeg "cloudfront")
+
+
+AWS Simple Notification Service
+---
+
+
+In simple terms, AWS Simple Notification Service (or AWS SNS) is a cloud-based web service that delivers messages. In other words, the AWS SNS service coordinates and manages the delivery of push messages to clients or subscribed endpoints.
+
+
+![sns](https://user-images.githubusercontent.com/106643382/205494970-10ec8889-af2a-4d1d-b239-29097170f2ee.png "sns")
 
 
 
