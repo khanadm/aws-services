@@ -77,9 +77,13 @@ Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the appl
 ![Amazon CloudWatch](https://user-images.githubusercontent.com/106643382/204772060-fc6d0648-dc53-4a4f-bdba-2644d42ca6aa.png "Amazon CloudWatch")
 
 ---
+Amazon S3
+---
+
 
 Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its e-commerce network
 
+![s3](https://user-images.githubusercontent.com/106643382/205498239-69c8c675-9bc3-457c-8e09-957dd429105b.png "s3")
 
 
 Amazon CloudFront
