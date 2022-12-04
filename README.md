@@ -101,7 +101,7 @@ In simple terms, AWS Simple Notification Service (or AWS SNS) is a cloud-based w
 
 ![sns](https://user-images.githubusercontent.com/106643382/205494970-10ec8889-af2a-4d1d-b239-29097170f2ee.png "sns")
 
-
+-
 
 
 
