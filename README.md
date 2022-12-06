@@ -16,6 +16,8 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
 
 ---
 
+
+
 Amazon EC2 Auto Scaling
 ---
 
@@ -24,9 +26,9 @@ Amazon EC2 Auto Scaling helps you maintain application availability and lets you
 
 ![Auto Scaling](https://user-images.githubusercontent.com/106643382/204759657-afba18d1-4640-4c73-84e3-1557dbcc3a52.png "Auto Scaling")
 
-
-
 ---
+
+
 
 Amazon load balance 
 ---
@@ -36,6 +38,8 @@ Elastic Load Balancing (ELB) automatically distributes incoming application traf
 ![simple-elb](https://user-images.githubusercontent.com/106643382/204757362-5f0a0882-a128-4889-a7eb-85da284c0dcf.png "simple-elb")
 
 ---
+
+
 
 Amazon EBS volumes
 ---
@@ -48,6 +52,8 @@ An Amazon EBS volume is a durable, block-level storage device that you can attac
 
 ---
 
+
+
 AWS Lambda
 ---
 
@@ -56,6 +62,7 @@ Lambda is a compute service that lets you run code without provisioning or manag
 ![how-lambda-works](https://user-images.githubusercontent.com/106643382/204767731-c5445f9c-c5ef-4188-82f1-a9aa100ace6f.jpg "how-lambda-works")
 
 ---
+
 
 
 AWS Elastic Beanstalk
@@ -69,6 +76,7 @@ With AWS Elastic Beanstalk, you can quickly deploy and manage applications in th
 ---
 
 
+
 Amazon CloudWatch
 ---
 
@@ -77,6 +85,8 @@ Amazon CloudWatch monitors your Amazon Web Services (AWS) resources and the appl
 ![Amazon CloudWatch](https://user-images.githubusercontent.com/106643382/204772060-fc6d0648-dc53-4a4f-bdba-2644d42ca6aa.png "Amazon CloudWatch")
 
 ---
+
+
 Amazon S3
 ---
 
@@ -84,6 +94,8 @@ Amazon S3
 Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its e-commerce network
 
 ![s3](https://user-images.githubusercontent.com/106643382/205498239-69c8c675-9bc3-457c-8e09-957dd429105b.png "s3")
+
+---
 
 
 Amazon CloudFront
@@ -110,6 +122,7 @@ In simple terms, AWS Simple Notification Service (or AWS SNS) is a cloud-based w
 ---
 
 
+
 AWS RDS 
 ---
 
@@ -120,6 +133,7 @@ running with Amazon RDS encryption, data stored at rest in the underlying storag
 
 ---
 
+
 Amazon Machine Images (AMI)
 ---
 
@@ -128,9 +142,22 @@ An Amazon Machine Image (AMI) is a supported and maintained image provided by AW
 You must specify an AMI when you launch an instance.
 
 
+![Amazon Machine Images](https://user-images.githubusercontent.com/106643382/205828380-3ed74e5a-2b4d-43b8-8db3-78451ef8e720.png "Amazon Machine Images")
+
+---
 
 
 
+AWS Backup
+---
+
+AWS Backup is a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services 
+in the cloud as well as on premises using the AWS Storage Gateway.
+
+
+![AWS Backup](https://user-images.githubusercontent.com/106643382/205833481-afe871cb-ae86-4d67-a0af-e2c642693723.png "AWS Backup")
+
+---
 
 
 
