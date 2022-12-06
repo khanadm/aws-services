@@ -161,6 +161,18 @@ in the cloud as well as on premises using the AWS Storage Gateway.
 
 
 
+Amazon VPC
+---
+
+
+
+Amazon Virtual Private Cloud (Amazon VPC) enables you to launch AWS resources into a virtual network that you've defined. This virtual network 
+closely resembles a traditional network that you'd operate in your own data center, with the benefits of using the scalable infrastructure of AWS.
+
+
+![Amazon VPC](https://user-images.githubusercontent.com/106643382/205866586-8a43f8b7-1c72-45b5-b940-30892a722a3c.png "Amazon VPC")
+
+---
 
 
 
