@@ -176,10 +176,15 @@ closely resembles a traditional network that you'd operate in your own data cent
 
 
 
+AWS Identity and Access Management 
+---
 
 
+AWS Identity and Access Management (IAM) is a web service for securely controlling access to AWS services. With IAM, you can centrally 
+manage users, security credentials such as access keys, and permissions that control which AWS resources users and applications can access.
 
 
+![AWS IAM](https://user-images.githubusercontent.com/106643382/205874915-09d5429b-5a00-4869-b31b-81bf4b1e57e3.png "AWS IAM")
 
 
 
