@@ -4,7 +4,6 @@
 
 
 
-
 Amazon EC2 
 ---
 
@@ -185,6 +184,37 @@ manage users, security credentials such as access keys, and permissions that con
 
 
 ![AWS IAM](https://user-images.githubusercontent.com/106643382/205874915-09d5429b-5a00-4869-b31b-81bf4b1e57e3.png "AWS IAM")
+
+
+AWS CloudTrail
+---
+
+
+CloudTrail enables auditing, security monitoring, and operational troubleshooting by tracking user activity and API usage. CloudTrail logs,
+continuously monitors, and retains account activity related to actions across your AWS infrastructure, giving you control over storage, 
+analysis, and remediation actions.
+
+
+![AWS CloudTrail](https://user-images.githubusercontent.com/106643382/205875972-e339692b-c2d5-46d7-b8fd-1d9c36746a4c.png "AWS CloudTrail")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
