@@ -95,6 +95,8 @@ Amazon CloudFront is a content delivery network (Amazon CDN or Amazon CDN Servic
 
 ![cloudfront](https://user-images.githubusercontent.com/106643382/205494395-b6e763ba-07db-4216-8b05-03b34c99b0e8.jpeg "cloudfront")
 
+---
+
 
 AWS Simple Notification Service
 ---
@@ -105,17 +107,25 @@ In simple terms, AWS Simple Notification Service (or AWS SNS) is a cloud-based w
 
 ![sns](https://user-images.githubusercontent.com/106643382/205494970-10ec8889-af2a-4d1d-b239-29097170f2ee.png "sns")
 
--
+---
 
 
+AWS RDS 
+---
+
+Amazon RDS allows you to encrypt your databases using keys you manage through AWS Key Management Service (KMS). On a database instance 
+running with Amazon RDS encryption, data stored at rest in the underlying storage is encrypted, as are its automated backups, read replicas,snapshots.
+
+![AWS RDS](https://user-images.githubusercontent.com/106643382/205823948-265459be-5d58-454f-ac64-bfae98463ca8.png "AWS RDS")
+
+---
+
+Amazon Machine Images (AMI)
+---
 
 
-
-
-
-
-
-
+An Amazon Machine Image (AMI) is a supported and maintained image provided by AWS that provides the information required to launch an instance. 
+You must specify an AMI when you launch an instance.
 
 
 
