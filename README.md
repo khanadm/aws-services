@@ -247,14 +247,17 @@ focusing on your applications that run in AWS
 
 ![AWS CloudFormation](https://user-images.githubusercontent.com/106643382/206922289-12f7ab74-7195-4a7b-84a5-a7e49270ddcf.png "AWS CloudFormation")
 
+---
 
 
+Amazon ElastiCache
+---
+
+Amazon ElastiCache makes it easy to set up, manage, and scale distributed in-memory cache environments in the AWS Cloud. It provides a high performance,
+ resizable, and cost-effective in-memory cache, while removing complexity associated with deploying and managing a distributed cache environment.
 
 
-
-
-
-
+![Amazon ElastiCache](https://user-images.githubusercontent.com/106643382/206923228-09ff057c-9604-418e-91ba-d8212bbfc3d0.png "Amazon ElastiCache")
 
 
 
