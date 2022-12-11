@@ -224,12 +224,28 @@ on-premises. Kubernetes is an open-source system for automating deployment, scal
 
 
 
+Amazon Athena 
+---
+
+
+Amazon Athena is an interactive query service that makes it easy to analyze data directly in Amazon Simple Storage Service (Amazon S3) using standard SQL.
+With a few actions in the AWS Management Console, you can point Athena at your data stored in Amazon S3 and begin using standard SQL to run ad-hoc queries 
+and get results in seconds.
+
+![Amazon Athena](https://user-images.githubusercontent.com/106643382/206921822-704b6998-64d6-40f7-aeed-2ece57b78446.png "Amazon Athena")
+
+---
+
+AWS CloudFormation
+---
+
+
+AWS CloudFormation is a service that helps you model and set up your AWS resources so that you can spend less time managing those resources and more time 
+focusing on your applications that run in AWS
 
 
 
-
-
-
+![AWS CloudFormation](https://user-images.githubusercontent.com/106643382/206922289-12f7ab74-7195-4a7b-84a5-a7e49270ddcf.png "AWS CloudFormation")
 
 
 
