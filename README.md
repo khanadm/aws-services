@@ -262,10 +262,17 @@ Amazon ElastiCache makes it easy to set up, manage, and scale distributed in-mem
 
 
 
+Amazon Route 53
+---
+
+Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet 
+applications running on AWS or on-premises.
 
 
 
+![Amazon Route 53](https://user-images.githubusercontent.com/106643382/207227740-7963c17a-9375-4846-8cb1-1c7ba1a2a45a.png "Amazon Route 53")
 
+---
 
 
 
