@@ -297,6 +297,39 @@ AWS CodeCommit is a version control service hosted by Amazon Web Services that y
 
 
 
+---
+
+
+AWS Key Management Service
+---
+
+
+AWS Key Management Service (AWS KMS) is an encryption and key management service scaled for the cloud. AWS KMS keys and functionality 
+are used by other AWS services, and you can use them to protect data in your own applications that use AWS.
+
+
+![AWS KMS](https://user-images.githubusercontent.com/106643382/208420859-d5d3dfb5-7b49-404d-9365-4c2de15c100e.png "AWS KMS")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
