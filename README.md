@@ -281,6 +281,7 @@ AWS Data Pipeline
 AWS Data Pipeline is a web service that you can use to automate the movement and transformation of data. With AWS Data Pipeline, you can 
 define data-driven workflows, so that tasks can be dependent on the successful completion of previous tasks.
 
+![Data pipeline](https://user-images.githubusercontent.com/106643382/208421497-83baa239-03a6-4809-b5f1-92246927733d.png "Data pipeline")
 
 
 ---
