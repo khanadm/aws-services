@@ -311,24 +311,31 @@ are used by other AWS services, and you can use them to protect data in your own
 
 ![AWS KMS](https://user-images.githubusercontent.com/106643382/208420859-d5d3dfb5-7b49-404d-9365-4c2de15c100e.png "AWS KMS")
 
+---
+
+
+Amazon SES
+---
+
+Amazon SES is an email platform that provides an easy, cost-effective way for you to send and receive email using your own email addresses and domains.
 
 
 
+![SES](https://user-images.githubusercontent.com/106643382/208959468-2863ab4c-1ba1-43ae-abf9-fba078618c30.png "SES")
 
 
+---
 
 
+AWS OpsWorks 
+---
 
 
+AWS OpsWorks provides a simple and flexible way to create and manage stacks and applications. With AWS OpsWorks, you can provision AWS resources, 
+manage their configuration, deploy applications to those resources, and monitor their health.
 
 
-
-
-
-
-
-
-
+---
 
 
 
