@@ -338,10 +338,11 @@ manage their configuration, deploy applications to those resources, and monitor 
 ---
 
 
+AWS Cost explorer
+---
 
 
-
-
+AWS Cost Explorer helps you visualize, understand, and manage your AWS costs and usage over a daily or monthly granularity
 
 
 
