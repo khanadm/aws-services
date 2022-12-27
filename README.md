@@ -344,6 +344,34 @@ AWS Cost explorer
 
 AWS Cost Explorer helps you visualize, understand, and manage your AWS costs and usage over a daily or monthly granularity
 
+---
+
+AWS Cloud Map 
+---
+
+AWS Cloud Map is a cloud resource discovery service. With Cloud Map, you can define custom names for your application resources,
+and it maintains the updated location of these dynamically changing resources.
+
+---
+
+
+AWS Transfer Family
+---
+
+
+AWS Transfer Family is a secure transfer service that enables you to transfer files into and out of AWS storage services. AWS 
+Transfer Family supports transferring data from or to the following AWS storage services. Amazon Simple Storage Service (Amazon S3) storage.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
